@@ -20,7 +20,7 @@ download source code from Github 💾
 `git clone https://github.com/Muntasir101/Simple_Weather.git`
 
 go to directory 📁
-`cd flaskWeather`
+`cd Simple_Weather`
 
 install requirements.txt 🔽
 `pip install -r requirements.txt`
